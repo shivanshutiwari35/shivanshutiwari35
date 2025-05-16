@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/warriorree" target="blank"><img src="https://img.shields.io/twitter/follow/warriorree?logo=twitter&style=for-the-badge" alt="warriorree" /></a> </p>
 
-- 🔭 I’m currently working on **NLP software**
-
 - 🌱 I’m currently learning **Cuda, 3D Computer Vision**
 
 - 📫 How to reach me **shivanshutiwari3535@gmail.com**
